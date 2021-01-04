@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+
+*{
+    margin: 0 auto;
+}
+body{
+    background-image: url('../img/emilia-music-top.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 180px;
+    font-family: Work Sans;
+}
+ul.menu{
+    margin: 5px;
+    margin-top: 50px;
+    text-align: right;
+    background-color: #ffffff80;
+    line-height: 50px;
+    font-family: Open Sans;
+    font-weight: bold;
+}
+ul.menu li{
+    display: inline;
+}
+div.icon{
+    height: 50px;
+    margin-top: 30px;
+    margin-right: 10px;
+    text-align: right;
+}
+h1{
+    margin-top: 30px;
+    font-family: Raleway;
+    font-size: 50px;
+}
+h2{
+    margin-top: 100px;
+    font-family: Raleway;
+}
+h5{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+ul.lista{
+    margin-bottom: 60px;
+}
+ul.lista a{
+    color: #161616;
+}
+ul.lista a:hover{
+    color: red;
+}
+img{
+    margin-top: 10px;
+}
+ol{
+    margin-top: 20px;
+    line-height: 35px;
+    list-style-type: decimal-leading-zero;
+}
+a p{
+    margin-top: 15px;
+    color: #161616;
+}
+p{
+    color: #000000;
+    font-weight: bold;
+}
+iframe{
+    margin: 20px 0;
+}
+ul li{
+    list-style: none;
+}
+a{
+    color: #000000;
+    text-decoration: none;
+}
